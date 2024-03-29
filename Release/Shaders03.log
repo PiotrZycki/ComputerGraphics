@@ -1,0 +1,15 @@
+﻿  main.cpp
+D:\Studia\Semestr IV\grafika\Przyklad3\main.cpp(129,21): warning C4473: „fscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+D:\Studia\Semestr IV\grafika\Przyklad3\main.cpp(129,21): message : symbole zastępcze i ich parametry oczekują 2 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+D:\Studia\Semestr IV\grafika\Przyklad3\main.cpp(129,21): message : brakujący argument 2 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+D:\Studia\Semestr IV\grafika\Przyklad3\main.cpp(129,21): message : ten argument jest używany jako rozmiar bufora
+D:\Studia\Semestr IV\grafika\Przyklad3\main.cpp(363,17): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+  shadersLoader.cpp
+  tekstura.cpp
+  tex_no_norm.cpp
+D:\Studia\Semestr IV\grafika\Przyklad3\tex_no_norm.cpp(129,21): warning C4473: „fscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+D:\Studia\Semestr IV\grafika\Przyklad3\tex_no_norm.cpp(129,21): message : symbole zastępcze i ich parametry oczekują 2 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+D:\Studia\Semestr IV\grafika\Przyklad3\tex_no_norm.cpp(129,21): message : brakujący argument 2 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+D:\Studia\Semestr IV\grafika\Przyklad3\tex_no_norm.cpp(129,21): message : ten argument jest używany jako rozmiar bufora
+D:\Studia\Semestr IV\grafika\Przyklad3\tex_no_norm.cpp(363,17): warning C4305: "inicjowanie": obcięcie z "double" do "GLfloat"
+LINK : fatal error LNK1181: nie można otworzyć pliku wejściowego „glew32.lib”

@@ -1,0 +1,5 @@
+C:\Users\student\Documents\Przyklad3\Debug\Shaders03.exe
+D:\Studia\Semestr IV\grafika\Przyklad3\Debug\Shaders03.exe
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\Debug\Shaders03.exe
+C:\Users\Piotr\Downloads\PZ_GIN_graf_projekt\Debug\Shaders03.exe
+D:\Studia\Semestr IV\grafika\ComputerGraphics\Debug\Shaders03.exe

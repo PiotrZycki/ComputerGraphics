@@ -1,0 +1,30 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (Shaders03.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(145,21): warning C4473: „fscanf_s”: przekazano niewystarczającą liczbę argumentów dla ciągu formatowania
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(145,21): message : symbole zastępcze i ich parametry oczekują 2 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(145,21): message : brakujący argument 2 o zmiennej liczbie parametrów jest wymagany w ciągu formatu „%c”
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(145,21): message : ten argument jest używany jako rozmiar bufora
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(198,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(202,31): warning C4305: "=": obcięcie z "double" do "float"
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(212,31): warning C4305: "=": obcięcie z "double" do "float"
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(251,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(260,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(265,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(279,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(248,23): warning C4101: "test": lokalna zmienna, do której nie istnieje odwołanie
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(293,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(303,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(305,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(318,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(328,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(330,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(594,14): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(599,14): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(605,39): warning C4244: "argument": konwersja z "double" do "GLfloat", możliwa utrata danych
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(633,14): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(634,14): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  shadersLoader.cpp
+  tekstura.cpp
+  Generowanie kodu...
+D:\Studia\Semestr IV\grafika\PZ_graf_projekt\main.cpp(185): warning C4715: "objload”: niewszystkie ścieżki kodu zwracają wartość
+  Shaders08.vcxproj -> D:\Studia\Semestr IV\grafika\PZ_graf_projekt\Debug\Przyklad8.exe
