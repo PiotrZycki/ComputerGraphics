@@ -4,7 +4,7 @@ Visualizating terrain model in .obj format.
 The program allows to view model in 4 different modes in trangular or quad mesh.
 
 
-## Features:
+## Features
  * rotating and zooming to model,
  * changing between trangular and quad mesh,
  * controlling position of a light source,
@@ -26,13 +26,13 @@ The program allows to view model in 4 different modes in trangular or quad mesh.
        ![Textured-model][texture]
 
 
-## Controls:
-* rotate: (`mouse left-click`)
-* zoom: (`mouse right-click`)
-* change model: (`T`)
-* change mesh: (`F`)
-* move light source: (`WASD`)
-* change speed of rotating light source: (`,.`)
+### Controls:
+* rotate (`mouse left-click`)
+* zoom (`mouse right-click`)
+* change model (`T`)
+* change mesh (`F`)
+* move light source (`WASD`)
+* change speed of rotating light source (`,.`)
 
 
 [mesh]: https://github.com/PiotrZycki/ComputerGraphics/assets/96142056/04661012-bd48-4f24-90f4-10eec9939982
