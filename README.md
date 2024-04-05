@@ -9,6 +9,7 @@ The program allows to view model in 4 different modes in trangular or quad mesh.
  * controlling position of a light source,
  * changing between modes
    *   triangular/quad mesh
+   
        ![Triangular and quad mesh][mesh]
 
    *   grey model with lighting
