@@ -13,12 +13,17 @@ The program allows to view model in 4 different modes in trangular or quad mesh.
        ![Triangular and quad mesh][mesh]
 
    *   grey model with lighting
+  
+       ![Grey model][grey]
      
    *   color model based on height
    *   textured model
 
 
 [mesh]: https://github.com/PiotrZycki/ComputerGraphics/assets/96142056/04661012-bd48-4f24-90f4-10eec9939982
+[grey]: https://github.com/PiotrZycki/ComputerGraphics/assets/96142056/f3ff9d36-5b75-4df5-9dbd-1f6db9eb6fff
+
+
 
 [quad-mesh]: https://github.com/PiotrZycki/ComputerGraphics/assets/96142056/af7150f7-94d5-4573-83ae-566cc8b776f6
 [tri-mesh]: https://github.com/PiotrZycki/ComputerGraphics/assets/96142056/601c4cca-ff3f-4945-b168-dc71e2c54581
