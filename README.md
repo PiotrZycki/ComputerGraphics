@@ -1,5 +1,5 @@
 # ComputerGraphics
-Visualizing terrain model in .obj format.
+Visualizing terrain model from .obj file.
 
 The program allows to view model in 4 different modes in trangular or quad mesh.
 
