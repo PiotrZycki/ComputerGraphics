@@ -9,19 +9,19 @@ The program allows to view model in 4 different modes in trangular or quad mesh.
  * Changing between trangular and quad mesh,
  * Controlling position of a light source,
  * Changing between modes
-   *   Triangular/quad mesh
+   *   triangular/quad mesh
    
        ![Triangular and quad mesh][mesh]
 
-   *   Grey model with lighting
+   *   grey model with lighting
   
        ![Grey model][grey]
      
-   *   Color model based on height
+   *   color model based on height
   
        ![Height-model][color]
        
-   *   Textured model
+   *   textured model
   
        ![Textured-model][texture]
 
