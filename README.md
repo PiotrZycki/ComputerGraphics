@@ -8,7 +8,7 @@ The program allows to view model in 4 different modes in trangular or quad mesh.
  * Rotating and zooming to model,
  * Changing between trangular and quad mesh,
  * Controlling position of a light source,
- * Changing between modes
+ * Changing between modes:
    *   triangular/quad mesh
    
        ![Triangular and quad mesh][mesh]
@@ -29,7 +29,7 @@ The program allows to view model in 4 different modes in trangular or quad mesh.
 ### Controls:
 * rotate:  `mouse left-click`
 * zoom:  `mouse right-click`
-* change model:  `T`
+* change mode:  `T`
 * change mesh:  `F`
 * move light source:  `WASD`
 * change speed of rotating light source:  `,.`
